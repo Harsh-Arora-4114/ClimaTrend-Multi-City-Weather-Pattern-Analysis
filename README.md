@@ -44,12 +44,6 @@ This notebook-based project aims to:
 
 ---
 
-## Sample Visualizations
-
-![Sample Plot](https://via.placeholder.com/600x300.png?text=Temperature+Trend+Chart)
-
----
-
 ## How to Run
 
 1. Download the notebook or open it in Google Colab.
