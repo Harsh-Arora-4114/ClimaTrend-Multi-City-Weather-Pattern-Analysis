@@ -1,10 +1,10 @@
-# 🌦️ ClimaTrend: Multi-City Weather Pattern Analysis
+# ClimaTrend: Multi-City Weather Pattern Analysis
 
 A comprehensive weather data analysis project leveraging Python and Pandas to explore, clean, and visualize weather trends across multiple cities using over **1 million records** from the [Kaggle Weather Dataset](https://www.kaggle.com/datasets/prasad22/weather-data).
 
 ---
 
-## 📊 Project Overview
+## Project Overview
 
 This notebook-based project aims to:
 - Analyze and compare temperature, humidity, and wind speed across cities.
@@ -14,7 +14,7 @@ This notebook-based project aims to:
 
 ---
 
-## 🗃️ Dataset
+##  Dataset
 
 - **Source**: [Kaggle - Weather Dataset by Prasad Ostwal](https://www.kaggle.com/datasets/prasad22/weather-data)
 - **Size**: ~1 million records
@@ -26,7 +26,7 @@ This notebook-based project aims to:
 
 ---
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Python**
 - **Pandas**, **NumPy** – data wrangling
@@ -35,22 +35,22 @@ This notebook-based project aims to:
 
 ---
 
-## 📈 Key Features
+## Key Features
 
-- 📅 **Time Series Processing**: Extracted year, month, day, and hour from timestamps
-- 🌡️ **Interactive Charts**: Filter data dynamically in Google Colab
-- 🧼 **Data Cleaning**: Removed nulls, duplicates, and formatted date fields
-- 🌍 **City-wise Comparison**: Grouped and compared trends across multiple cities
+- **Time Series Processing**: Extracted year, month, day, and hour from timestamps
+- **Interactive Charts**: Filter data dynamically in Google Colab
+- **Data Cleaning**: Removed nulls, duplicates, and formatted date fields
+- **City-wise Comparison**: Grouped and compared trends across multiple cities
 
 ---
 
-## 📷 Sample Visualizations
+## Sample Visualizations
 
 ![Sample Plot](https://via.placeholder.com/600x300.png?text=Temperature+Trend+Chart)
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 1. Download the notebook or open it in Google Colab.
 2. Upload the dataset CSV file (`weather.csv`).
@@ -59,22 +59,15 @@ This notebook-based project aims to:
 
 ---
 
-## 📌 License
+## License
 
 This project uses the dataset under the [Kaggle Datasets Terms of Use](https://www.kaggle.com/datasets/general/terms). Please refer to the original author [Prasad Ostwal](https://www.kaggle.com/prasad22) for citation.
 
 ---
 
-## 🔗 Links
+## Author
 
-- 📂 [Project Notebook (Jupyter)](./ClimaTrend_Multi-City_Weather_Pattern_Analysis.ipynb)
-- 📊 [Kaggle Dataset](https://www.kaggle.com/datasets/prasad22/weather-data)
-
----
-
-## 👨‍💻 Author
-
-**Harsh Arora**  
+**Developed by Harsh Arora**  
 
 ---
 
